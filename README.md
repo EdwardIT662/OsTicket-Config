@@ -57,9 +57,20 @@ Allowing everyone to create a ticket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dkMJ6dX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating Agents/Workers/Employees.
 </p>
+<p>
+<img src="https://i.imgur.com/2biV7AN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configuring SLA. There are 3 SLA I created Sev-A, Sev-B, Sev-C
+  </p>
+<p>
+<img src="https://i.imgur.com/UKETwOK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating Help Topics such as: Business Critical Outage, Equipment Request, Password Reset, and Password Reset 
 <br />
