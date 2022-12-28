@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Allow anyone to Create Tickets
 - Configure Agents (workers)
 - Configure SLA
-- Password Reset
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
